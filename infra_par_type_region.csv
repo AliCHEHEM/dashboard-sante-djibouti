@@ -1,0 +1,85 @@
+region,type,nombre
+Djibouti-Ville,Hôpital général de référence,1
+Ali Sabieh,Hôpital général de référence,1
+Dikhil,Hôpital général de référence,0
+Tadjourah,Hôpital général de référence,0
+Obock,Hôpital général de référence,0
+Arta,Hôpital général de référence,0
+Djibouti-Ville,Central d'achat de médicaments,1
+Ali Sabieh,Central d'achat de médicaments,0
+Dikhil,Central d'achat de médicaments,0
+Tadjourah,Central d'achat de médicaments,0
+Obock,Central d'achat de médicaments,0
+Arta,Central d'achat de médicaments,0
+Djibouti-Ville,Centre de santé,13
+Ali Sabieh,Centre de santé,1
+Dikhil,Centre de santé,3
+Tadjourah,Centre de santé,2
+Obock,Centre de santé,1
+Arta,Centre de santé,0
+Djibouti-Ville,Poste de santé,2
+Ali Sabieh,Poste de santé,9
+Dikhil,Poste de santé,9
+Tadjourah,Poste de santé,15
+Obock,Poste de santé,4
+Arta,Poste de santé,11
+Djibouti-Ville,Centre hospitalier,1
+Ali Sabieh,Centre hospitalier,1
+Dikhil,Centre hospitalier,2
+Tadjourah,Centre hospitalier,1
+Obock,Centre hospitalier,0
+Arta,Centre hospitalier,1
+Djibouti-Ville,Hôpital spécialisé,1
+Ali Sabieh,Hôpital spécialisé,2
+Dikhil,Hôpital spécialisé,0
+Tadjourah,Hôpital spécialisé,0
+Obock,Hôpital spécialisé,0
+Arta,Hôpital spécialisé,0
+Djibouti-Ville,Polyclinique,8
+Ali Sabieh,Polyclinique,0
+Dikhil,Polyclinique,1
+Tadjourah,Polyclinique,0
+Obock,Polyclinique,0
+Arta,Polyclinique,0
+Djibouti-Ville,Maternité,1
+Ali Sabieh,Maternité,0
+Dikhil,Maternité,0
+Tadjourah,Maternité,1
+Obock,Maternité,1
+Arta,Maternité,0
+Djibouti-Ville,Laboratoire,7
+Ali Sabieh,Laboratoire,0
+Dikhil,Laboratoire,0
+Tadjourah,Laboratoire,0
+Obock,Laboratoire,0
+Arta,Laboratoire,0
+Djibouti-Ville,Cabinet médical,3
+Ali Sabieh,Cabinet médical,0
+Dikhil,Cabinet médical,0
+Tadjourah,Cabinet médical,0
+Obock,Cabinet médical,0
+Arta,Cabinet médical,0
+Djibouti-Ville,Clinique,18
+Ali Sabieh,Clinique,0
+Dikhil,Clinique,0
+Tadjourah,Clinique,0
+Obock,Clinique,1
+Arta,Clinique,0
+Djibouti-Ville,Centre médical,8
+Ali Sabieh,Centre médical,1
+Dikhil,Centre médical,0
+Tadjourah,Centre médical,0
+Obock,Centre médical,1
+Arta,Centre médical,0
+Djibouti-Ville,Pharmacie,40
+Ali Sabieh,Pharmacie,3
+Dikhil,Pharmacie,2
+Tadjourah,Pharmacie,4
+Obock,Pharmacie,3
+Arta,Pharmacie,1
+Djibouti-Ville,Soin traditionnel,4
+Ali Sabieh,Soin traditionnel,0
+Dikhil,Soin traditionnel,0
+Tadjourah,Soin traditionnel,0
+Obock,Soin traditionnel,0
+Arta,Soin traditionnel,0
